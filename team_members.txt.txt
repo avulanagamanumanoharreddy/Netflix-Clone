@@ -1,0 +1,5 @@
+reg no      student name 
+40110136-Avula Naga Manohar Reddy
+40110243-Chava Nikitha
+40110407-Gudiboyana Shivani
+project name - Netflix Clone
